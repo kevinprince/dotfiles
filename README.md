@@ -1,4 +1,4 @@
-dotfiles
+Dot Files
 ========
 
-My Dot Files
+These are my dotfiles to help config bits.
