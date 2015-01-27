@@ -7,3 +7,6 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 [ -f /opt/boxen/env.sh ] && source /opt/boxen/env.sh
+
+export GOPATH=$HOME/go
+export PATH=$PATH:/usr/local/go/bin
